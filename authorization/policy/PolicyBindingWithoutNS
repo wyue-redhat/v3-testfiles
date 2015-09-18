@@ -1,0 +1,7 @@
+{
+    "kind": "PolicyBinding",
+    "apiVersion": "v1",
+    "metadata": {
+        "name": "wsuntest"
+    }
+}
